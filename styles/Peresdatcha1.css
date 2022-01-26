@@ -1,0 +1,31 @@
+.Dot-border{
+    width: 1400px;
+    height: 750px;
+    margin-top: 30px;
+    margin-left: 38px;
+    margin-right: 45px;
+    padding: 30px;
+    border: 4px dotted lightgrey;
+}
+.img-1{
+    margin: 40px;
+    float: left;
+}
+.Link-1{
+    float: right;
+}
+h1{
+    display: block;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.text-lorem{
+    display: inline;
+    font-size: 20pt;
+}
+a:link{
+    text-decoration: none;
+}
